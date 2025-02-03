@@ -1,4 +1,4 @@
-## Workshop - Desenvolvimento de Códigos e Materiais de Apoio
+# Workshop - Desenvolvimento de Códigos e Materiais de Apoio
 
 Este repositório contém os códigos desenvolvidos ao longo dos dias do workshop, bem como os slides utilizados e uma **apostila de apoio** que foi criada e usada como base para a formulação do plano de ensino deste workshop.
 
